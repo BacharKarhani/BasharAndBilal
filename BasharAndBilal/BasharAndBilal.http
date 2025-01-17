@@ -1,0 +1,6 @@
+@BasharAndBilal_HostAddress = http://localhost:5264
+
+GET {{BasharAndBilal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
